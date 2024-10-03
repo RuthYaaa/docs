@@ -1,33 +1,22 @@
 ---
 home: true
-title: Home
-heroImage: https://vuejs.press/images/hero.png
-actions:
-  - text: Get Started
-    link: /getting-started.html
-    type: primary
-
-  - text: Introduction
-    link: https://vuejs.press/guide/introduction.html
-    type: secondary
-
-features:
-  - title: Simplicity First
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
-  - title: Vue-Powered
-    details: Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue.
-  - title: Performant
-    details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-  - title: Themes
-    details: Providing a default theme out of the box. You can also choose a community theme or create your own one.
-  - title: Plugins
-    details: Flexible plugin API, allowing plugins to provide lots of plug-and-play features for your site.
-  - title: Bundlers
-    details: Default bundler is Vite, while Webpack is also supported. Choose the one you like!
-
-footer: MIT Licensed | Copyright © 2018-present VuePress Community
+heroImage: /hero.jpg
+heroText: 飞跃高山与大洋的鱼
+tagline: 文档、笔记、博客
+actionText: 进入笔记 →
+actionLink: /guide/
 ---
 
-This is the content of home page. Check [Home Page Docs][default-theme-home] for more details.
+# 关于~~文档~~笔记
 
-[default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page
+::: danger
+
+这根本不是什么文档，仅仅是一个个人笔记而已。
+
+:::
+
+如果你也想部署这样的一个文档，可以观看视频：
+
+:tada: [视频地址](https://www.bilibili.com/video/av43316513/) :tada:
+
+<p style="text-align:center;">MIT Licensed | Copyright © 2018-2022 飞跃高山与大洋的鱼 | ICP证：<a href="http://www.beian.miit.gov.cn" target="_blank" rel="noopener noreferrer">皖ICP备19002167号</a></p>
